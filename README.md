@@ -95,7 +95,7 @@ It combines **reconnaissance, vulnerability scanning, credential extraction, and
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CloudStorageHunter-Pro.git
+git clone https://github.com/DonatelloXP/CloudStorageHunter-Pro.git
 cd CloudStorageHunter-Pro
 ```
 
@@ -138,7 +138,6 @@ CloudStorageHunter-Pro/
 ├── BM_V14.py              # Main application
 ├── README.md             # Documentation
 ├── requirements.txt      # Dependencies
-├── screenshots/          # UI screenshots
 ├── results/              # Scan outputs
 └── database/             # SQLite database
 ```
